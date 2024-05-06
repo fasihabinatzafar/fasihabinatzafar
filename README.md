@@ -10,7 +10,7 @@
 **Business Intelligence and Visualization Software:**
 - 👁️ Microstrategy, Looker Studio, Tableau, Power BI
 
-**A lot more :D**
+😉 **A lot more :D**
 
 
 
