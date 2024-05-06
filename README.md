@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/wave.gif" width="30px">, I am Fasiha Binat Zafar!
 
-<img src="https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/DALL·E%202024-05-05%2023.52.29%20-%20Create%20an%20ultra-wide%20panoramic%20artistic%20image%20featuring%20the%20phrase%20Hi%2C%20I%20am%20Fasiha%20in%20a%20bold%2C%20clear%2C%20and%20legible%20script%20font.%20The%20text%20should%20be%20in%20-2.png" width = "3000px" height="200px">
+<img src="https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/intro.jpg" width = "3000px" height="200px">
 
 
 
