@@ -15,7 +15,7 @@
 ### Contact
 
 - LinkedIn: www.linkedin.com/in/fasihabinatzafar
-- or freelance work? do reach, [email](fasihabinatzafar@gmail.com) :)
+- or freelance work? do reach, [✉️ Say hi via email!](fasihabinatzafar@gmail.com) :)
 
 
 
