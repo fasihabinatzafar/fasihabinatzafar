@@ -1,4 +1,4 @@
-### Hi there 👋, I am Fasiha Binat Zafar!
+### Hi there <https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/wave.gif> 👋, I am Fasiha Binat Zafar!
 ---
 
 <!--
