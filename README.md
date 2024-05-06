@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/wave.gif" width="30px">, I am Fasiha Binat Zafar!
 
-<img src="https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/intro.jpg" width = "3000px" height="200px">
+<img src="https://github.com/fasihabinatzafar/fasihabinatzafar/blob/main/intro.png" width = "3000px" height="200px">
 
 
 
