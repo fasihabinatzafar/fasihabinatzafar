@@ -1,7 +1,4 @@
 ### Hi there 👋, I am Fasiha Binat Zafar!
-...
-🔭 I’m currently working on ...
-
 
 
 <!--
