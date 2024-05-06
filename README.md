@@ -11,6 +11,12 @@
 - 👁️ Microstrategy, Looker Studio, Tableau, Power BI
 
 😉 **A lot more :D**
+---
+### Contact
+
+- LinkedIn: www.linkedin.com/in/fasihabinatzafar
+
+
 
 
 
